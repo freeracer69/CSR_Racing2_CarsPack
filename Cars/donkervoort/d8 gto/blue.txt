@@ -1,9 +1,5 @@
-/**
-*
-* @author Minato00 http://4pda.ru/forum/index.php?showuser=5224361
-*/
-{
-      "unid": 1156,
+   {
+      "unid": 1627,
       "crdb": "Donkervoort_D8GTORewardRecycled_2015",
       "awar": false,
       "grsp": [
@@ -625,7 +621,3 @@
       "tlad": 0.0,
       "need": false
     }
-/**
-*
-* @author Minato00 http://4pda.ru/forum/index.php?showuser=5224361
-*/
